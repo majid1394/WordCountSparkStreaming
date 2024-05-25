@@ -1,1 +1,3 @@
-"# WordCountSparkStreaming"  initgit add README.md
+1. create network with ip 192.168.79.134 
+2. nc -l - p 9999 command in linux for create SocketTextStream]
+run project to count word in any lines
